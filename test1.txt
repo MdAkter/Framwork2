@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 206C-F10C
+
+ Directory of C:\Users\hp\Desktop\GIT\MyProject
+
+08/13/2020  08:14 AM    <DIR>          .
+08/13/2020  08:14 AM    <DIR>          ..
+08/13/2020  08:14 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  356,566,863,872 bytes free
